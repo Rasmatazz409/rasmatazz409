@@ -8,21 +8,16 @@ At the moment, I am...
 - HTML
 - CSS
 - Python
-- Java
-- C++
+- Powershell
 
 
 :chart_with_upwards_trend: Focusing on the following projects/concepts:
-- Data Analysis
-- Application Development
-- Input Validation
-- Python - Multi-file systems
+- Powershell Automation
+- Python Application Development
 
 
 :briefcase: I'm willing to collaborate on:
-- Python projects, specifically modules utilizing pandas or matplotlib
-- Statistics projects
-- Data Analysis projects
+- Powershell Automation projects
 
 
 If you would like to contact me, you can do so at:
